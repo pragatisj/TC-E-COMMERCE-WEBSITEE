@@ -1,6 +1,6 @@
 E-commerce Website Test Cases
 
-This repository contains a comprehensive set of test cases for an e-commerce platform, created for the website Automation Exercise. The test cases cover essential functionalities and user interactions across key modules, ensuring that the website's features perform as expected. The test suite includes:
+This repository contains a comprehensive set of test cases for an e-commerce platform, created for the website https://automationexercise.com/test_cases The test cases cover essential functionalities and user interactions across key modules, ensuring that the website's features perform as expected. The test suite includes:
 
 Modules Covered
 Home Page: Tests verifying the layout, content display, and basic navigation functionality.
